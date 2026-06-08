@@ -47,7 +47,13 @@ pre-training - https://github.com/hendrycks/pre-training/ - Apache-2.0 license
 
 ## Citation
 ```
-
+@inproceedings{udayangani2025exploiting,
+  title={Exploiting Inter-Sample Information for Long-Tailed Out-of-Distribution Detection},
+  author={Udayangani, Nimeshika and Dolatabadi, Hadi Mohaghegh and Erfani, Sarah and Leckie, Christopher},
+  booktitle={Proceedings of the Winter Conference on Applications of Computer Vision},
+  pages={8535--8544},
+  year={2025}
+}
 ```
 
 ## Security
