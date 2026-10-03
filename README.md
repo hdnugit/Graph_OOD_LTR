@@ -1,6 +1,6 @@
 # Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection 
 
-This is the official implementation of the [Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection]().
+This is the official implementation of the [Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection](https://openaccess.thecvf.com/content/WACV2025/html/Udayangani_Exploiting_Inter-Sample_Information_for_Long-Tailed_Out-of-Distribution_Detection_WACV_2025_paper.html).
 
 
 ## Package installation
